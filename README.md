@@ -20,7 +20,7 @@ Special thanks to Silan Hu for providing an online version of the project, which
 
 ```bash
 conda env create -f environment.yml
-conda activate VDSAgent
+conda activate VDSAgents
 ```
 
 ### Using Pip
