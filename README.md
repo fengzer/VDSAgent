@@ -1,4 +1,4 @@
-# VDSAgent: A PCS-Guided Multi-Agent System for Veridical Data Science Automation
+# 🔥 VDSAgent: A PCS-Guided Multi-Agent System for Veridical Data Science Automation
 
 **VDSAgents** is a multi-agent system guided by the Predictability-Computability-Stability (PCS) principles, designed to automate veridical data science. The system implements a modular and interpretable workflow for data cleaning, feature engineering, modeling, and evaluation. Each phase is managed by an elegant agent, ensuring both functionality and scientific auditability.
 
