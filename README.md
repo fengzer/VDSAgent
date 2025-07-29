@@ -44,8 +44,8 @@ To use your own dataset, please store your training and test data in the `data_s
 - data_science_project/
   - <your_project_name>/
     - data/
-      - train.txt
-      - test.txt
+      - train.csv
+      - test.csv
 ```
 
 Next, open the `run_experiments.py` file and modify the following parameters in the `main` function:
