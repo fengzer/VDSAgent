@@ -8,7 +8,7 @@
 - **PCS Principles**: Ensures system reliability and robustness
 - **Multi-Dataset Evaluation**: Validated across diverse datasets
 
-## 🙏 Acknowledgements
+## 🙏 Online playground
 
 Special thanks to Silan Hu for providing an online version of the project, which requires no installation. You can access it at [https://easy-notebook.silan.tech/](https://easy-notebook.silan.tech/).
 
